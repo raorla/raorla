@@ -1,15 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-dark.png">
-  <img src="assets/avatar-light.png" width="192" alt="Orlando R.">
-</picture>
+## Engineer | LLM agents, confidential computing, identity security
 
-# Orlando Rasolofoniaina
-
-**Engineer | LLM agents, confidential computing, identity security**
-<br>
-Building things that don't ask you to trust them.
+*Building things that don't ask you to trust them.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-orlandoras-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandoras/)
 [![Location](https://img.shields.io/badge/Lyon-France-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
