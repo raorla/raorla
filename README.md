@@ -4,6 +4,7 @@
 
 *Pull requests, servers, payments, people remembered.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-raorla.github.io-0B6A66?style=flat-square&logo=googlechrome&logoColor=white)](https://raorla.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-orlandoras-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandoras/)
 [![Lyrify Studio](https://img.shields.io/badge/Studio-lyrify.studio-111?style=flat-square&logo=googlechrome&logoColor=white)](https://lyrify.studio/)
 [![Open to](https://img.shields.io/badge/Open%20to-AI%20%7C%20Web3%20%7C%20FDE%20roles-2ea44f?style=flat-square)](#-contact)
