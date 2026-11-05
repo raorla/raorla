@@ -1,8 +1,8 @@
 <div align="center">
 
-## Engineer | LLM agents, confidential computing, identity security
+## I build AI agents that ship real work
 
-*Building things that don't ask you to trust them.*
+*Pull requests, servers, payments, people remembered.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-orlandoras-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandoras/)
 [![Lyrify Studio](https://img.shields.io/badge/Studio-lyrify.studio-111?style=flat-square&logo=googlechrome&logoColor=white)](https://lyrify.studio/)
@@ -15,24 +15,16 @@
 
 ### About
 
-Computer engineer (MSc, 10+ years) working where **systems, cloud, APIs, blockchain and AI** meet.
+AI Engineer with 10+ years across **systems, cloud and APIs**. I design LLM agents, wire them to real business APIs, and put guardrails in code so they can be trusted with real work.
 
-- 🔐 **Now:** Web3 Support Engineer at [iExec](https://iex.ec), L2/L3 support for developers building on confidential computing (TEE, Intel TDX), SDKs and smart contracts.
-- 🤖 **Building:** LLM agents that do real work: they open pull requests, run servers, match offers and remember the people they help.
-- 🚀 **Shipping:** products for the Malagasy market and its diaspora, from mobile money payments to live shopping, through my studio [Lyrify Studio](https://lyrify.studio/).
+- 🤖 **Building:** agents that open pull requests, operate servers, match offers and remember the people they help.
+- 🚀 **Shipping:** products for Madagascar and its diaspora, from mobile money to live shopping, through my studio [Lyrify Studio](https://lyrify.studio/).
+- 🔧 **Now:** Web3 Support Engineer at [iExec](https://iex.ec), L2/L3 support for developers integrating SDKs, APIs and smart contracts.
 - ☁️ **Before:** IT Systems Engineer at Agicap (Azure, Entra ID, Okta, SSO, API automation) and multi-site infrastructure admin in industry.
-
-### 🔐 Confidential computing
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[CryptoWordle](https://github.com/raorla/CRYPTOWORDLE)** · [live](https://raorla.github.io/CRYPTOWORDLE/) | A Wordle nobody can cheat: the secret word stays encrypted in a TEE, hints are computed on ciphertext, payouts settle on-chain. 78 tests, no mocks. | TypeScript, Solidity, iExec Nox |
-| **[DarkPool](https://github.com/raorla/DarkPool)** | Decentralized dark pool: orders are matched inside a TEE enclave, with a Solidity vault and confidential token wrappers. | Solidity, TypeScript, Intel TDX |
-| **[DashboardTDX](https://github.com/raorla/DashboardTDX)** · [live](https://dashboard-tdx.vercel.app) | Real-time analytics for iExec TDX workerpools on Arbitrum, from GraphQL subgraphs. | Python, GraphQL |
 
 ### 🤖 AI agents
 
-Private repositories, walkthrough and code on request.
+Private repositories: live walkthrough and code access on request.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -55,6 +47,14 @@ Private repositories, walkthrough and code on request.
 | **[PixStock](https://github.com/PixStock/pixstock)** | Hackathon build: an offline signer for tokenized stocks that checks the market price before it signs. Solana. |
 | **[DegenRank](https://github.com/DegenFamily)** | Staked curation market for Solana tokens: ranking positions are earned with real capital, not ad budgets. |
 | **[Loovi](https://github.com/LooviApp)** | Dating app for Madagascar and its diaspora. |
+
+### ⛓️ Web3
+
+| Project | What it is |
+|---|---|
+| **[CryptoWordle](https://github.com/raorla/CRYPTOWORDLE)** · [live](https://raorla.github.io/CRYPTOWORDLE/) | A Wordle nobody can cheat: the secret word stays encrypted, hints are computed on ciphertext, payouts settle on-chain. 78 tests. |
+| **[DarkPool](https://github.com/raorla/DarkPool)** | Decentralized dark pool with private order matching, a Solidity vault and confidential tokens. |
+| **[DashboardTDX](https://github.com/raorla/DashboardTDX)** · [live](https://dashboard-tdx.vercel.app) | Real-time analytics for iExec workerpools on Arbitrum, from GraphQL subgraphs. |
 
 ### Tech stack
 
@@ -81,7 +81,6 @@ Private repositories, walkthrough and code on request.
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=flat-square&logo=arbitrum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=ton&logoColor=white)
-![TEE](https://img.shields.io/badge/TEE%20%2F%20Intel%20TDX-0071C5?style=flat-square&logo=intel&logoColor=white)
 
 **Backend & data** &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
