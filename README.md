@@ -23,16 +23,16 @@ AI Engineer with 10+ years across **systems, cloud and APIs**. I design LLM agen
 
 ### 🤖 AI agents
 
-Private repositories: live walkthrough and code access on request.
+🔒 Private repositories: GitHub shows a 404 until you have access. [Ask me on LinkedIn](https://www.linkedin.com/in/orlandoras/) for access or a live walkthrough.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Jules** | Self-hosted team of three dev agents. The developer agent takes an issue through spec, design, tests first, implementation and a second-model review, then opens a pull request. A DevOps agent operates servers over SSH, a security agent tracks every flaw to its fix. No agent merges, no agent sees a secret, production always needs a human approval. | Claude Agent SDK, TypeScript, Rust |
-| **Koto** | Personal AI agent on Telegram that learns what you work on and helps you move forward every day. Long-term memory, history search, daily cost budget. | TypeScript, MCP, SQLite |
-| **SWARM** | Local-first multi-agent copilot for an X account, as a Chrome extension. No backend, bring your own LLM (Ollama included). 84 tests. | TypeScript, Chrome MV3 |
-| **Bastien** | AI companion for older people and their families: reminders, organisation, company and a link with loved ones. | TypeScript, Claude |
-| **agentWSB** | Autonomous AI agent that manages an on-chain USDG vault on Robinhood Chain. | TypeScript, Solidity, Next.js |
-| **Soulkey** | Proof-of-human layer for the AI-agent economy, as a Telegram Mini App on TON. | TypeScript, TON |
+| 🔒 **[Jules](https://github.com/raorla/Jules)** | Self-hosted team of three dev agents. The developer agent takes an issue through spec, design, tests first, implementation and a second-model review, then opens a pull request. A DevOps agent operates servers over SSH, a security agent tracks every flaw to its fix. No agent merges, no agent sees a secret, production always needs a human approval. | Claude Agent SDK, TypeScript, Rust |
+| 🔒 **[Koto](https://github.com/raorla/Koto)** | Personal AI agent on Telegram that learns what you work on and helps you move forward every day. Long-term memory, history search, daily cost budget. | TypeScript, MCP, SQLite |
+| 🔒 **[SWARM](https://github.com/raorla/SWARM)** | Local-first multi-agent copilot for an X account, as a Chrome extension. No backend, bring your own LLM (Ollama included). 84 tests. | TypeScript, Chrome MV3 |
+| 🔒 **[Bastien](https://github.com/raorla/Bastien)** | AI companion for older people and their families: reminders, organisation, company and a link with loved ones. | TypeScript, Claude |
+| 🔒 **[agentWSB](https://github.com/raorla/agentWSB)** | Autonomous AI agent that manages an on-chain USDG vault on Robinhood Chain. | TypeScript, Solidity, Next.js |
+| 🔒 **[Soulkey](https://github.com/raorla/Soulkey)** | Proof-of-human layer for the AI-agent economy, as a Telegram Mini App on TON. | TypeScript, TON |
 
 ### 🚀 Products I've built
 
