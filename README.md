@@ -39,7 +39,7 @@ Private repositories: live walkthrough and code access on request.
 | Product | What it is |
 |---|---|
 | **[Myvola](https://github.com/myVolaApp)** | A personal AI agent to swap euros or dollars for ariary, person to person, between the diaspora and Madagascar. A deterministic matching engine pairs offers, Myvola never holds money. |
-| **[ZAP](https://zapew.com)** | International anonymous chat (Telegram Mini App and mobile): random matching with an AI fallback, audio and video calls over WebRTC. NestJS, Prisma, Flutter. |
+| **[ZAP](https://zapew.com)** | International anonymous chat app for adults: random matching with an AI companion when no human is free, friends, rooms and a daily game. Every message moderated before relay. NestJS, Prisma, Flutter. |
 | **[Lyrify](https://github.com/MozikaApp)** | Malagasy music app (iOS and Android): hybrid catalog, offline downloads, karaoke lyrics. Flutter. |
 | **[MGLive](https://github.com/Vaolive)** | Malagasy live shopping with escrow: the buyer pays by mobile money during the live, the money is released on delivery. |
 | **[Briisa](https://github.com/BriisaApp)** | Event ticketing platform: mobile app, staff scanner app, back-office and real-time API. |
