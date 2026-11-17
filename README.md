@@ -42,7 +42,7 @@ AI Engineer with 10+ years across **systems, cloud and APIs**. I design LLM agen
 | **[Myvola](https://github.com/myVolaApp)** | A personal AI agent to swap euros or dollars for ariary, person to person, between the diaspora and Madagascar. A deterministic matching engine pairs offers, Myvola never holds money. |
 | **[ZAP](https://zapew.com)** | International anonymous chat app for adults: random matching with an AI companion when no human is free, friends, rooms and a daily game. Every message moderated before relay. NestJS, Prisma, Flutter. |
 | **[Lyrify](https://github.com/MozikaApp)** | Malagasy music app (iOS and Android): hybrid catalog, offline downloads, karaoke lyrics. Flutter. |
-| **[MGLive](https://github.com/Vaolive)** | Malagasy live shopping with escrow: the buyer pays by mobile money during the live, the money is released on delivery. |
+| **[MGLive](https://github.com/Lychee-teams)** | Malagasy live shopping with escrow: the buyer pays by mobile money during the live, the money is released on delivery. |
 | **[Briisa](https://github.com/BriisaApp)** | Event ticketing platform: mobile app, staff scanner app, back-office and real-time API. |
 | **[PixStock](https://github.com/PixStock/pixstock)** | Hackathon build: an offline signer for tokenized stocks that checks the market price before it signs. Solana. |
 | **[DegenRank](https://github.com/DegenFamily)** | Staked curation market for Solana tokens: ranking positions are earned with real capital, not ad budgets. |
