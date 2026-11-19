@@ -34,6 +34,7 @@ AI Engineer with 10+ years across **systems, cloud and APIs**. I design LLM agen
 | 🔒 **[Bastien](https://github.com/raorla/Bastien)** | AI companion for older people and their families: reminders, organisation, company and a link with loved ones. | TypeScript, Claude |
 | 🔒 **[agentWSB](https://github.com/raorla/agentWSB)** | Autonomous AI agent that manages an on-chain USDG vault on Robinhood Chain. | TypeScript, Solidity, Next.js |
 | 🔒 **[Soulkey](https://github.com/raorla/Soulkey)** | Proof-of-human layer for the AI-agent economy, as a Telegram Mini App on TON. | TypeScript, TON |
+| 🔒 **[HYPERTRADE](https://github.com/raorla/HYPERTRADE)** | Claude skills and a decision engine for crypto trades: market screener, 4-layer confluence validation, bar-by-bar backtest and a decision cockpit. Analysis only: never places orders, never holds keys. | Python, Claude skills |
 
 ### 🚀 Products I've built
 
